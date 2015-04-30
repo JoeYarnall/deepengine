@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GrassTile.png</Source>
+      <Name>GrassTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\GrassTile.xnb</Output>
+      <Time>2013-06-13T13:37:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-09-11T21:50:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background_wood.png</Source>
+      <Name>background_wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\background_wood.xnb</Output>
+      <Time>2012-08-04T21:17:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ConcreteTile.png</Source>
+      <Name>ConcreteTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\ConcreteTile.xnb</Output>
+      <Time>2013-08-10T12:55:05.0844118+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet1.png</Source>
+      <Name>Planets\planet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet1.xnb</Output>
+      <Time>2009-06-06T20:06:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet10.png</Source>
+      <Name>Planets\planet10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet10.xnb</Output>
+      <Time>2009-06-06T20:06:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet11.png</Source>
+      <Name>Planets\planet11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet11.xnb</Output>
+      <Time>2009-06-06T20:06:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet12.png</Source>
+      <Name>Planets\planet12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet12.xnb</Output>
+      <Time>2009-06-06T20:06:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet13.png</Source>
+      <Name>Planets\planet13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet13.xnb</Output>
+      <Time>2009-06-06T20:06:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet14.png</Source>
+      <Name>Planets\planet14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet14.xnb</Output>
+      <Time>2009-06-06T20:06:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet15.png</Source>
+      <Name>Planets\planet15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet15.xnb</Output>
+      <Time>2009-06-06T20:06:39+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet16.png</Source>
+      <Name>Planets\planet16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet16.xnb</Output>
+      <Time>2009-06-06T20:06:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet17.png</Source>
+      <Name>Planets\planet17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet17.xnb</Output>
+      <Time>2009-06-06T20:06:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet18_0.png</Source>
+      <Name>Planets\planet18_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet18_0.xnb</Output>
+      <Time>2009-06-06T20:06:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet19.png</Source>
+      <Name>Planets\planet19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet19.xnb</Output>
+      <Time>2009-06-06T20:06:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet2.png</Source>
+      <Name>Planets\planet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet2.xnb</Output>
+      <Time>2009-06-06T20:06:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet20.png</Source>
+      <Name>Planets\planet20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet20.xnb</Output>
+      <Time>2009-06-06T20:06:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet3.png</Source>
+      <Name>Planets\planet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet3.xnb</Output>
+      <Time>2009-06-06T20:06:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet4.png</Source>
+      <Name>Planets\planet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet4.xnb</Output>
+      <Time>2009-06-06T20:06:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet5.png</Source>
+      <Name>Planets\planet5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet5.xnb</Output>
+      <Time>2009-06-06T20:06:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet6.png</Source>
+      <Name>Planets\planet6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet6.xnb</Output>
+      <Time>2009-06-06T20:06:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\planet7.png</Source>
+      <Name>Planets\planet7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Planets\planet7.xnb</Output>
+      <Time>2009-06-06T20:06:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse.png</Source>
+      <Name>Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Mouse.xnb</Output>
+      <Time>2013-08-28T18:14:50.5083282+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\1.png</Source>
+      <Name>Spaceships\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\1.xnb</Output>
+      <Time>2007-11-22T23:56:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\10.png</Source>
+      <Name>Spaceships\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\10.xnb</Output>
+      <Time>2007-11-22T07:02:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\11.png</Source>
+      <Name>Spaceships\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\11.xnb</Output>
+      <Time>2007-11-21T04:31:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\12.png</Source>
+      <Name>Spaceships\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\12.xnb</Output>
+      <Time>2007-11-23T00:02:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\13.png</Source>
+      <Name>Spaceships\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\13.xnb</Output>
+      <Time>2007-11-21T02:11:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\2.png</Source>
+      <Name>Spaceships\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\2.xnb</Output>
+      <Time>2007-11-21T05:53:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\3.png</Source>
+      <Name>Spaceships\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\3.xnb</Output>
+      <Time>2007-11-23T00:00:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\4.png</Source>
+      <Name>Spaceships\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\4.xnb</Output>
+      <Time>2007-11-22T07:05:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\5.png</Source>
+      <Name>Spaceships\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\5.xnb</Output>
+      <Time>2007-11-22T23:53:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\6.png</Source>
+      <Name>Spaceships\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\6.xnb</Output>
+      <Time>2007-11-21T01:18:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\7.png</Source>
+      <Name>Spaceships\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\7.xnb</Output>
+      <Time>2007-11-23T00:09:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\8.png</Source>
+      <Name>Spaceships\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\8.xnb</Output>
+      <Time>2007-11-21T03:34:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceships\9.png</Source>
+      <Name>Spaceships\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\Spaceships\9.xnb</Output>
+      <Time>2007-11-21T05:22:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>testFont2.spritefont</Source>
+      <Name>testFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\testFont2.xnb</Output>
+      <Time>2013-06-18T16:15:12+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpaceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpaceContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Joe\Dropbox\Game Dev\DeepEngine\EntityEngineContentPipelineExtension\bin\x86\Debug\EntityEngineContentPipelineExtension.dll</Key>
+        <Value>2013-09-24T20:11:51.3660588+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-04T14:40:46.2123212+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

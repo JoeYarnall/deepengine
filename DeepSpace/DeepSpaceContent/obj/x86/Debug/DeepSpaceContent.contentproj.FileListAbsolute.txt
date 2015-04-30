@@ -1,0 +1,2 @@
+C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpaceContent\obj\x86\Debug\DeepSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Joe\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpaceContent\obj\x86\Debug\DeepSpaceContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Entity>
+    <Name>Test Entity</Name>
+    <Active>True</Active>
+    <Persist>False</Persist>
+    <Component>
+      <Type>CTest</Type>
+      <Name>Test1</Name>
+      <Active>True</Active>
+      <Persist>False</Persist>
+      <Value1>11</Value1>
+      <Value2>26575</Value2>
+    </Component>
+    <Component>
+      <Type>CTest</Type>
+      <Name>Test2</Name>
+      <Active>True</Active>
+      <Persist>False</Persist>
+      <Value1>356756</Value1>
+      <Value2>4232</Value2>
+    </Component>
+    <Component>
+      <Type>CTest</Type>
+      <Name>Test3</Name>
+      <Active>True</Active>
+      <Persist>False</Persist>
+      <Value1>6666</Value1>
+      <Value2>1337</Value2>
+    </Component>
+  </Entity>
+</Root>

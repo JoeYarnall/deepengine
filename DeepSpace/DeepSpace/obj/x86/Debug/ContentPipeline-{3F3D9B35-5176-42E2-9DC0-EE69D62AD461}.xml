@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GrassTile.png</Source>
+      <Name>GrassTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\GrassTile.xnb</Output>
+      <Time>2013-06-13T13:37:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-09-11T21:50:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background_wood.png</Source>
+      <Name>background_wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\background_wood.xnb</Output>
+      <Time>2012-08-04T21:17:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>testFont2.spritefont</Source>
+      <Name>testFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\testFont2.xnb</Output>
+      <Time>2013-06-18T16:15:12.4606213+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3F3D9B35-5176-42E2-9DC0-EE69D62AD461}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpaceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\DeepSpace\DeepSpace\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Joe Yarnall\Dropbox\Game Dev\DeepEngine\EntityEngineContentPipelineExtension\bin\x86\Debug\EntityEngineContentPipelineExtension.dll</Key>
+        <Value>2013-06-18T19:00:22.3229766+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-03T17:07:14.8054566+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
